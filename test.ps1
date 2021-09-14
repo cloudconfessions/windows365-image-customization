@@ -1,1 +1,1 @@
-Get-Host
+New-Item -Path "C:\testscript"
